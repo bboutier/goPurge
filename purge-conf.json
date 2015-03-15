@@ -1,0 +1,17 @@
+{
+  "parallel_degree": 2,
+  "purge_info": [
+    {
+      "path": "/tmp/test_purge/*",
+      "delay": 30
+    },
+    {
+      "path": "/tmp/test_purge/log/*",
+      "delay": 10
+    },
+    {
+      "path": "/tmp/test_purge2/*.xml",
+      "delay": 5
+    }
+  ]
+}
