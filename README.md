@@ -1,5 +1,5 @@
 # goPurge
-Simple golang script to do parallel purge, based on a configuration file listing the paths to purge with associate delay (in days). Parallel degree configurable.
+Simple golang script to do parallel purge, based on a configuration file listing the paths to purge with associated delay (in days). Parallel degree configurable.
 
 ###Build:
 
