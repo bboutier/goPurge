@@ -22,7 +22,7 @@ type PurgeConf struct {
 }
 
 type PurgeInfo struct {
-	Path  string `json:"path" binding:"required"`
+	Path  string `json:"path"`
 	Delay int    `json:"delay"`
 }
 
