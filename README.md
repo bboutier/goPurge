@@ -10,7 +10,7 @@ go build purge-files.go
 
 ### Run:
 ```
-./purge-files.go purge-conf.json
+./purge-files purge-conf.json
 ```
 
 ### Output:
